@@ -1,0 +1,11 @@
+C:\Users\Наташа\source\repos\ConsoleApp37\ConsoleApp37\bin\Debug\netcoreapp3.0\ConsoleApp37.exe
+C:\Users\Наташа\source\repos\ConsoleApp37\ConsoleApp37\bin\Debug\netcoreapp3.0\ConsoleApp37.deps.json
+C:\Users\Наташа\source\repos\ConsoleApp37\ConsoleApp37\bin\Debug\netcoreapp3.0\ConsoleApp37.runtimeconfig.json
+C:\Users\Наташа\source\repos\ConsoleApp37\ConsoleApp37\bin\Debug\netcoreapp3.0\ConsoleApp37.runtimeconfig.dev.json
+C:\Users\Наташа\source\repos\ConsoleApp37\ConsoleApp37\bin\Debug\netcoreapp3.0\ConsoleApp37.dll
+C:\Users\Наташа\source\repos\ConsoleApp37\ConsoleApp37\bin\Debug\netcoreapp3.0\ConsoleApp37.pdb
+C:\Users\Наташа\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\netcoreapp3.0\ConsoleApp37.csprojAssemblyReference.cache
+C:\Users\Наташа\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\netcoreapp3.0\ConsoleApp37.AssemblyInfoInputs.cache
+C:\Users\Наташа\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\netcoreapp3.0\ConsoleApp37.AssemblyInfo.cs
+C:\Users\Наташа\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\netcoreapp3.0\ConsoleApp37.dll
+C:\Users\Наташа\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\netcoreapp3.0\ConsoleApp37.pdb
